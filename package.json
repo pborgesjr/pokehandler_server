@@ -20,7 +20,7 @@
     "sqlite3": "^4.2.0",
     "yup": "^0.29.1",
     "typescript": "^3.9.3",
-    "ts-node": "^8.10.2",
+    "ts-node": "^8.10.2"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
